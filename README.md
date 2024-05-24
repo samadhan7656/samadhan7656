@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://samadhanshinde.netlify.app/](https://samadhanshinde.netlify.app/)
 
-- 💬 Ask me about **JavaScript ,React,Node**
+- 💬 Ask me about **JavaScript ,React**
 
 - 📫 How to reach me **s.samadhan2909@gmail.com**
 
