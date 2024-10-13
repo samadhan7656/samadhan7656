@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samadhan</h1>
 <h3 align="center">MERN stack 🚀 enthusiast</h3>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://samadhanshinde.netlify.app/](https://samadhanshinde.netlify.app/)
 
